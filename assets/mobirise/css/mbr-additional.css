@@ -1534,6 +1534,30 @@ a {
 .cid-sgPcQsOIB3 .mbr-section-title {
   color: #353535;
 }
+.cid-sgQ2ojxAaF {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sgQ2ojxAaF img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sgQ2ojxAaF .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sgQ2ojxAaF .card {
+    max-width: 12.5%;
+  }
+}
+.cid-sgQ2ojxAaF .mbr-section-title {
+  color: #353535;
+}
 .cid-sgOgeTSUdQ {
   padding-top: 5rem;
   padding-bottom: 5rem;
